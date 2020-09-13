@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="99fca5fd-8539-4834-8344-6d11870d1e93" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/sort_num test.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sort_num.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,6 +32,28 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RunManager" selected="Python.sort_string test">
+    <configuration name="sort_num test" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="COSC_499_GitExercise" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/sort_num test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="sort_num" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="COSC_499_GitExercise" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -102,6 +123,7 @@
     <recent_temporary>
       <list>
         <item itemvalue="Python.sort_string test" />
+        <item itemvalue="Python.sort_num test" />
         <item itemvalue="Python.sort_string_desc" />
         <item itemvalue="Python.sort_num" />
       </list>
@@ -118,6 +140,7 @@
       <option name="presentableId" value="Default" />
       <updated>1599980271679</updated>
       <workItem from="1599980273654" duration="909000" />
+      <workItem from="1599981559586" duration="546000" />
     </task>
     <servers />
   </component>
@@ -133,22 +156,22 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="669" y="115" key="#sort_string_desc/0.0.1920.1040@0.0.1920.1040" timestamp="1599981011797" />
-    <state width="1877" height="282" key="GridCell.Tab.0.bottom" timestamp="1599981139603">
+    <state width="1877" height="282" key="GridCell.Tab.0.bottom" timestamp="1599981575687">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="282" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1599981139603" />
-    <state width="1877" height="282" key="GridCell.Tab.0.center" timestamp="1599981139603">
+    <state width="1877" height="282" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1599981575687" />
+    <state width="1877" height="282" key="GridCell.Tab.0.center" timestamp="1599981575687">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="282" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1599981139603" />
-    <state width="1877" height="282" key="GridCell.Tab.0.left" timestamp="1599981139603">
+    <state width="1877" height="282" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1599981575687" />
+    <state width="1877" height="282" key="GridCell.Tab.0.left" timestamp="1599981575687">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="282" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1599981139603" />
-    <state width="1877" height="282" key="GridCell.Tab.0.right" timestamp="1599981139603">
+    <state width="1877" height="282" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1599981575687" />
+    <state width="1877" height="282" key="GridCell.Tab.0.right" timestamp="1599981575687">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="282" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1599981139603" />
+    <state width="1877" height="282" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1599981575687" />
     <state width="1877" height="348" key="GridCell.Tab.1.bottom" timestamp="1599981012310">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -168,7 +191,8 @@
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/COSC_499_GitExercise$sort_num.coverage" NAME="sort_num Coverage Results" MODIFIED="1599980758746" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/COSC_499_GitExercise$sort_string_desc.coverage" NAME="sort_string_desc Coverage Results" MODIFIED="1599981014316" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/COSC_499_GitExercise$sort_string_test.coverage" NAME="sort_string test Coverage Results" MODIFIED="1599981139596" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/COSC_499_GitExercise$sort_string_desc.coverage" NAME="sort_string_desc Coverage Results" MODIFIED="1599981570259" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/COSC_499_GitExercise$sort_num_test.coverage" NAME="sort_num test Coverage Results" MODIFIED="1599982240938" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/COSC_499_GitExercise$sort_string_test.coverage" NAME="sort_string test Coverage Results" MODIFIED="1599982246472" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>
